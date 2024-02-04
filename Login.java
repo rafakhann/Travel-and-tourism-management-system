@@ -32,7 +32,7 @@ public class Login extends JFrame implements ActionListener{
 	panel.setBackground(Color.WHITE);
 	setContentPane(panel);
 	panel.setLayout(null);
-		System.out.println("hii");
+		System.out.println("hii there");
 
 	JLabel l1 = new JLabel("Username : ");
 	l1.setBounds(124, 89, 95, 24);
